@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout" : 7000,
+    "env": {
+        "normalUserName":"ally.m",
+        "normalUserPassword":"Ally-Likes-To-Test-3000",
+        "adminUserName":"sara.h",
+        "adminPassword":"9876-Admin-Power-Comes-With-Great-Responsibility!!!",
+        "managerUsername":"kieran.b",
+        "managerPassword":"You-Sh4ll-Not-Pass-Th!s_P@ssword_L0tR-To-Anyone"
+    }
+}
